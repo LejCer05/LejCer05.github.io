@@ -5,7 +5,7 @@
 ### Overview
 My professional self assessment reflects on my growth throughout the Computer Science program and the development of my technical and professional skills. It discusses my experience with collaboration, communication, software engineering, algorithms and data structures, databases, and security while also describing my professional goals and preparation for a career in computer science.
 
-### Professional Self-Assessment
+### Professional Self Assessment
 [View My Professional Self Assessment](CS499_Professional_Self_Assessment.docx)
 
 ---
