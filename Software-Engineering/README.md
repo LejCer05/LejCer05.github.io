@@ -25,3 +25,9 @@ The project was enhanced by:
 
 ### Supporting Documentation
 This folder also contains my Software Design and Engineering Enhancement Narrative describing the changes made and how they demonstrate professional software engineering practices.
+
+### Project Files
+
+- [View Original CS 320 Contact Service](ContactService-Original.zip)
+- [View Enhanced CS 320 Contact Service](ContactService-Enhanced.zip)
+- [View Enhancement Narrative](CS%20499%20Enhancement%20Narrative%20Software%20Design%26Engineering.docx)
