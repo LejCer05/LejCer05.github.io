@@ -30,3 +30,9 @@ The project was enhanced by:
 
 ### Supporting Documentation
 This folder also contains my Databases Enhancement Narrative describing the changes made and how they demonstrate database management, data retrieval, and professional database development practices.
+
+### Project Files
+
+- [View Original CS 340 Animal Shelter](CS%20340%20AnimalShelter-Original.zip)
+- [View Enhanced CS 340 Animal Shelter](CS%20340%20AnimalShelter-Enhanced.zip)
+- [View Enhancement Narrative](CS%20499%20Enhancement%20Narrative%20Databases.docx)
