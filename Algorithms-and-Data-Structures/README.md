@@ -28,3 +28,9 @@ The project was enhanced by:
 
 ### Supporting Documentation
 This folder also contains my Algorithms and Data Structures Enhancement Narrative describing the changes made and how they demonstrate the application of algorithms, data organization, and efficient data processing.
+
+### Project Files
+
+- [View Original CS 360 Weight Tracker](CS%20360%20WeightTracker-Original.zip)
+- [View Enhanced CS 360 Weight Tracker](CS%20360%20WeightTracker-Enhanced.zip)
+- [View Enhancement Narrative](CS%20499%20Enhancement%20Narrative%20Algorithms%20and%20Data%20Structure.docx)
